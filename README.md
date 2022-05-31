@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Zxsh!</h1>
-<h3 align="center">A young multiplatform student from Spain.</h3>
+<h1 align="center">Hi 👋, I'm Joel Mas!</h1>
+<h3 align="center">A young multiplatform app developer from Spain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unspecifiedzxsh&label=Profile%20views&color=0e75b6&style=flat" alt="unspecifiedzxsh" /> </p>
 
-- 🌱 I’m currently learning **C#, Kotlin & React**
+- 🌱 I’m currently learning **C++, & React**
 
 - 🤝 I’m looking for help with [DripperES](dripper.es)
 
-- 💬 Ask me about **java, discord.js**
+- 💬 Ask me about **java, python, PLSQL**
 
-- 📫 Contact me! **joelmasprades2000@gmail.com**
+- 📫 Contact me! **xsrjowi@outlook.es**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
