@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋 me llamo Joel Mas Prades</h1>
 <h3 align="center">Soy un apasionado de la informática, el comportamiento de los programas del dia a dia y el motor!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xsrjowi&label=Profile%20views&color=0e75b6&style=flat" alt="xsrjowi" /> </p>
-
 <p align="left"> <a href="https://twitter.com/xsrjowi_" target="blank"><img src="https://img.shields.io/twitter/follow/xsrjowi_?logo=twitter&style=for-the-badge" alt="xsrjowi_" /></a> </p>
 
 - 🌱 I'm currently studying (by myself) **Flutter, ReactJS, Rust**
