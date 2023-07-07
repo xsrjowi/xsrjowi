@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋 me llamo Joel Mas Prades</h1>
-<h3 align="center">Soy un apasionado de la informática, el comportamiento de los programas del dia a dia y el motor!</h3>
+<h1 align="center">Hola 👋 soy Joel Mas Prades</h1>
+<h3 align="center">Un apasionado de la informática, el comportamiento de los programas del dia a dia y el motor!</h3>
 
 <br>
 
