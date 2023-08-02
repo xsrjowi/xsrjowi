@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently studying (by myself) **Flutter, ReactJS, Rust**
 
-- 🚀 I'm working for [DripperES](dripper.es)
+- 🚀 Collaborator on [DripperES](dripper.es)
 
 - 💬 You can ask me about **Java, JavaScript y PLSQL**
 
