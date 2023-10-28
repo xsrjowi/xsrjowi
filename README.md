@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently studying (by myself) **Flutter, ReactJS, Rust**
 
-- 🚀 Collaborator on [DripperES](dripper.es)
+- 🚀 Currently swimming at [42 School](42.fr)
 
 - 💬 You can ask me about **Java, JavaScript y PLSQL**
 
