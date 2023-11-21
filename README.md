@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I'm currently freelancing about **Flutter, ReactJS, Rust**
+- 🌱 I'm currently freelancing about **Flutter, ReactJS, ExpressJS, Rust**
 
 - 🚀 Currently swimming at [42 School](https://42.fr/)'s C-Piscine
 
