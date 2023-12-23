@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Joel</h1>
+<h1 align="center">Hi 👋 I'm Joel Mas</h1>
 <h3 align="center">A tecnology apasionate. I also love software behaviour of our daily using tools!</h3>
 
 <br>
