@@ -5,9 +5,11 @@
 
 - 🌱 I'm currently freelancing about **Flutter, ReactJS, ExpressJS, Rust**
 
-- 🚀 Currently swimming at [42 School](https://42.fr/)'s C-Piscine
+- 🎖️ Multiplatform developed certified at 'La Salle'
 
-- 💬 You can ask me about **Java, JavaScript y PLSQL**
+- 🚀 Currently expanding my knowledge at [42 School](https://42.fr/)'s Cursus - Common Core
+
+- 💬 You can ask me about **NodeJS, Express, Flutter or PLSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
