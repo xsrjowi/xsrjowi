@@ -7,7 +7,7 @@
 
 - 🎖️ Multiplatform developed certified at 'La Salle'
 
-- 🚀 Currently expanding laboral knowledges as Syatem Administrator
+- 🚀 Currently expanding laboral knowledges as System Administrator
 
 - 💬 You can ask me about **NodeJS, Express, Flutter or PLSQL**
 
