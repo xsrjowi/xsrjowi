@@ -7,7 +7,7 @@
 
 - 🎖️ Multiplatform developed certified at 'La Salle'
 
-- 🚀 Currently expanding my knowledge at [42 School](https://42.fr/)'s Cursus - Common Core
+- 🚀 Currently expanding laboral knowledges as Syatem Administrator
 
 - 💬 You can ask me about **NodeJS, Express, Flutter or PLSQL**
 
